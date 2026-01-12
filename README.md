@@ -9,3 +9,7 @@ Objective: We will analyse this dataset of 10k records and find out different in
 
 The Stakeholder: The Marketing Manager (who needs to know where to spend the budget). 
 
+
+
+Project Title : SaaS sales & Retention Analysis
+<img width="2068" height="1078" alt="image" src="https://github.com/user-attachments/assets/f5f37e4b-c1e5-4bed-9cdc-e240b04142d7" />
