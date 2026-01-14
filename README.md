@@ -14,3 +14,5 @@ The Stakeholder: The Marketing Manager (who needs to know where to spend the bud
 Project Title : SaaS sales & Retention Analysis
 <img width="2068" height="1078" alt="image" src="https://github.com/user-attachments/assets/f5f37e4b-c1e5-4bed-9cdc-e240b04142d7" />
 <img width="2138" height="1110" alt="image" src="https://github.com/user-attachments/assets/3659b85b-8e44-4591-a74f-6f72dbbff63f" />
+<img width="1294" height="360" alt="image" src="https://github.com/user-attachments/assets/d840b380-698e-4910-b692-e4a8da7c38d5" />
+
